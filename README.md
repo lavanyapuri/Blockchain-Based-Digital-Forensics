@@ -1,7 +1,6 @@
 # Blockchain-Based-Digital-Forensics
 ### 1. Installing Dependencies
 1. Run "npm install" in terminal to get the dependencies installed in your system.
-![image](https://user-images.githubusercontent.com/113082198/233406475-42a040f3-e084-48e4-b07e-96e6e1f1b7a3.png)
 
 ### 2. Working with Ganache
 1. Download Ganache in your PC.

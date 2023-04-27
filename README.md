@@ -24,3 +24,10 @@
 ![image](https://user-images.githubusercontent.com/113082198/233407884-a4f458a7-8997-4e67-a70f-2d146faf221f.png)
 
 6. Type "npm run start" to open the website in localhost.
+
+
+### Video of execution
+Link for the video: https://drive.google.com/file/d/18y2FJB7WsUPs9MCol55hx5geCqG4Hyic/view?usp=share_link
+
+https://user-images.githubusercontent.com/113082198/234927095-acb20e19-9287-4cef-a7df-cf0928878f08.mp4
+
